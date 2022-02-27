@@ -47,6 +47,15 @@
 .timeline-card-primary:after {
   background-color: #4A89DC; }
 
+.timeline-card-work {
+  border-left-color: #800000; }
+
+.timeline-card-work:before {
+  border-color: #800000; }
+
+.timeline-card-work:after {
+  background-color: #800000; }
+
 .timeline-card-success {
   border-left-color: #37BC9B; }
 
