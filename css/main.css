@@ -48,13 +48,13 @@
   background-color: #4A89DC; }
 
 .timeline-card-work {
-  border-left-color: #800000; }
+  border-left-color: #b42d2d; }
 
 .timeline-card-work:before {
-  border-color: #800000; }
+  border-color: #b42d2d; }
 
 .timeline-card-work:after {
-  background-color: #800000; }
+  background-color: #b42d2d; }
 
 .timeline-card-success {
   border-left-color: #37BC9B; }
